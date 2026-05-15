@@ -37,7 +37,7 @@ This query identifies the most frequently requested domains in the environment.
 Screenshot
 
 Screenshot here:
-soc-dns-analysis-project/screenshots/top-domains.png
+![Top Domain](soc-dns-analysis-project/screenshots/top-domains.png)
 
 ---
 
