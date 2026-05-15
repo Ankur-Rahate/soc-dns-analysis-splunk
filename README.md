@@ -37,7 +37,7 @@ This query identifies the most frequently requested domains in the environment.
 Screenshot
 
 Screenshot here:
-"soc-dns-analysis-project/screenshots/top-domains.png"
+soc-dns-analysis-project/screenshots/top-domains.png
 
 ---
 
@@ -54,7 +54,7 @@ This query identifies systems generating the highest DNS traffic in the network.
 Screenshot
 
 Screenshot here:
-"soc-dns-analysis-project/screenshots/most-active-source-ips.png"
+soc-dns-analysis-project/screenshots/most-active-source-ips.png
 
 ---
 
@@ -71,7 +71,7 @@ This query detects systems generating failed DNS requests (NXDOMAIN responses), 
 Screenshot
 
 Screenshot here:
-"soc-dns-analysis-project/screenshots/nxdomain-analysis.png"
+soc-dns-analysis-project/screenshots/nxdomain-analysis.png
 
 ---
 
@@ -87,7 +87,7 @@ This query identifies refused DNS requests that may indicate unauthorized or abn
 Screenshot
 
 Screenshot here:
-"soc-dns-analysis-project/screenshots/refused-analysis.png"
+soc-dns-analysis-project/screenshots/refused-analysis.png
 
 ---
 
@@ -104,7 +104,7 @@ This query detects unusually long domain names that may indicate DNS tunneling o
 Screenshot
 
 Screenshot here:
-"soc-dns-analysis-project/screenshots/long-domain-detection.png"
+soc-dns-analysis-project/screenshots/long-domain-detection.png
 
 ---
 
